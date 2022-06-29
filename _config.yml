@@ -104,10 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "-"
+  name             : "Atlas AI"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "-"
-  location         : "-"
+  bio              : ""
+  location         : "
+  "
   email            :
   links:
     - label: "Email"
